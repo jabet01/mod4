@@ -1,0 +1,1 @@
+export const btnClick = () => alert("hello weld")
